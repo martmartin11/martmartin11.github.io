@@ -1,0 +1,151 @@
+.page{
+	width: 780px;
+	margin: auto;
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans-ser
+	front-size: 18px;
+}
+
+}
+img.alignleft{
+	float: left;
+	border: 7px solid #C82F2F;
+}
+
+img.alignRight{
+	float: left;
+	border: 7px solid #C82F2F;
+
+}
+.cadre{
+	background-color: #C82F2F;
+}
+
+p.alignleft{
+	text-align: center;
+	margin-bottom: 50px;
+	background-color: #C82F2F;
+	width: 840px;
+}
+p.alignRight{
+	text-align: left;
+	margin-top: 200px;
+	background-color: #C82F2F;
+	font-weight: bold;
+	font-size: 25px;
+	font-style: bold;
+	margin-top: -57px;
+	width: 840px;
+}
+.catégorie{
+	text-align: auto;
+	font-size: 30px;
+	margin-left: 370px;
+	margin-top: -72px;
+	border-bottom: 3px;
+	font-weight: bold;
+}
+.info{
+	float: right;
+	background-color: #C82F2F;
+}
+
+.section{
+	margin-bottom: 70px;
+	text-align: auto;
+	font-size: 25px;
+
+
+}
+.sec-gauche{
+	float: left;
+	margin-left: 30px;
+
+	font-size: 27px;
+}
+.sec-droite{
+	margin-left: 380px;
+	margin-top:-50px ;
+	font-size:20px;
+
+}
+h2{
+	font-size: 28px;
+	color: #000000;
+	border-bottom: 10px solid #C82F2F;
+	align-items : left;
+	justify-content: left;
+	width: 900px;
+}
+.duree{
+	font-weight: normal;
+	font-style: italic;
+	font-size: 20px;
+}
+.titre{
+	font-weight: bold;
+	font-size: 25px;
+	font-style: bold;
+	margin-top: -77px;
+
+
+}
+#forma-gauche p{
+	margin-bottom : 50px;
+	margin-top : 10px;
+	font-size: 25px;
+	margin-left: -30px;
+}
+#forma-droite p{
+	font-size: 25px;
+	font-style: italic;
+	margin-right:250px; 
+}
+
+.exp-droite{
+	margin-right: 2000px;
+}
+strong{
+	font-size: 32px;
+}
+
+}
+.group-center img{
+	display: inline-block;
+	width: 2000px;
+	text-align: center;
+}
+.photo{
+	text-align: center;
+	display: inline-block;
+}
+.picture img{
+	border-style: none;
+	text-align: center;
+	margin-left: 100px;
+	float: center;
+	clear: center;
+	float: right;
+	width: 100px;
+}
+.pic1{
+	border-style: none;
+	margin-left: 280px;
+	clear: margin-left;
+	margin-left: 480px;
+}
+}
+.pictu2{
+	border-style: none;
+	text-align: right;
+	margin-left: 480px;
+}
+}
+.piture3 p{
+	border-style: none;
+	
+	margin-right: 680px;
+}
+img .groupe-center{
+	width: 2000px;
+}
+}
